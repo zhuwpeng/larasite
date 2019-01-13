@@ -10477,6 +10477,10 @@ and open the template in the editor.
     Author     : Zarchard
 */
 
+.card-column > .card {
+  margin-bottom: 15px;
+}
+
 .navbar-laravel {
   background-color: #fff;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);

@@ -24,4 +24,9 @@ class PagesController extends Controller
         );
         return view('pages.services')->with($data);
     }
+    
+    public function videos(){
+        $title = 'Videos';
+        return view('pages.videos')->with('title', $title);
+    }
 }

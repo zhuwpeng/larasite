@@ -3,7 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/xampp/htdocs/larasite/public/css/app.css</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/inc/navbar.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/inc/messages.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/config/app.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/layouts/app.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/app/Post.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/config/view.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/posts/index.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/pages/videos.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/pages/about.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/posts/show.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/posts/edit.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/app/Http/Controllers/PagesController.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/app/Http/Controllers/PostsController.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/resources/views/posts/create.blade.php</file>
+            <file>file:/D:/xampp/htdocs/larasite/routes/web.php</file>
         </group>
     </open-files>
 </project-private>
